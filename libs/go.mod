@@ -12,8 +12,8 @@ require (
 	github.com/packetcap/go-pcap v0.0.0-20221020071412-2b2e94010282
 	github.com/sirupsen/logrus v1.9.0
 	github.com/ti-mo/conntrack v0.4.0
-	golang.org/x/net v0.7.0
-	golang.org/x/sys v0.5.0
+	golang.org/x/net v0.17.0
+	golang.org/x/sys v0.13.0
 )
 
 require (
@@ -25,7 +25,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/ti-mo/netfilter v0.3.1 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
@@ -36,7 +36,7 @@ require (
 	github.com/aws/aws-sdk-go v1.35.35
 	github.com/google/go-containerregistry v0.6.0
 	github.com/pkg/sftp v1.12.0
-	golang.org/x/crypto v0.1.0
+	golang.org/x/crypto v0.14.0
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
 	google.golang.org/api v0.57.0
 )
