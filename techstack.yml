@@ -2,7 +2,7 @@ repo_name: 2lambda123/eve
 report_id: 45b571a976b45190f14804548d54110f
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:34:55+00:00'
+timestamp: '2024-01-05T08:14:16+00:00'
 requested_by: snorkell-ai[bot]
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -37,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -60,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2854/ocaml.jpg
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -70,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -80,6 +85,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/acrn-kernel/Dockerfile
   detection_source: pkg/acrn-kernel/Dockerfile
   last_updated_by: Jack Ren
   last_updated_on: 2019-10-02 00:53:23.000000000 Z
@@ -91,6 +97,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/api/go/go.mod
   detection_source: api/go/go.mod
   last_updated_by: Christoph Ostarek
   last_updated_on: 2023-02-23 16:10:57.000000000 Z
@@ -103,6 +110,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Remote Procedure Call (RPC)
   image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/libs/go.mod
   detection_source: libs/go.mod
   last_updated_by: Kalyan Nidumolu
   last_updated_on: 2020-11-25 17:07:44.000000000 Z
@@ -114,6 +122,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/libs/go.mod
   detection_source: libs/go.mod
   last_updated_by: Petr Fedchenkov
   last_updated_on: 2021-10-01 12:03:26.000000000 Z
@@ -125,6 +134,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/libs/go.mod
   detection_source: libs/go.mod
   last_updated_by: Avi Deitcher
   last_updated_on: 2023-03-02 08:27:40.000000000 Z
@@ -136,6 +146,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/edgeview/vendor/github.com/miekg/dns/.codecov.yml
   detection_source: pkg/edgeview/vendor/github.com/miekg/dns/.codecov.yml
   last_updated_by: Naiming Shen
   last_updated_on: 2022-10-27 03:39:33.000000000 Z
@@ -148,6 +159,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -157,6 +169,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -166,6 +179,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/.github/workflows/assets.yml
   detection_source: ".github/workflows/assets.yml"
   last_updated_by: Ruslan Dautov
   last_updated_on: 2022-01-24 13:41:10.000000000 Z
@@ -178,6 +192,7 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/libs/go.mod
   detection_source: libs/go.mod
   last_updated_by: Milan Lenco
   last_updated_on: 2023-02-21 13:46:32.000000000 Z
@@ -191,6 +206,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/pillar/go.mod
   detection_source: pkg/pillar/go.mod
   last_updated_by: Christoph Ostarek
   last_updated_on: 2023-02-09 09:59:34.000000000 Z
@@ -204,6 +220,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/pillar/go.mod
   detection_source: pkg/pillar/go.mod
   last_updated_by: Christoph Ostarek
   last_updated_on: 2023-01-26 17:47:13.000000000 Z
@@ -216,6 +233,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/edgeview/vendor/github.com/cenkalti/backoff/.travis.yml
   detection_source: pkg/edgeview/vendor/github.com/cenkalti/backoff/.travis.yml
   last_updated_by: Naiming Shen
   last_updated_on: 2022-10-27 03:39:33.000000000 Z
@@ -228,6 +246,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Management
   image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/pillar/vendor/github.com/containerd/cgroups/Vagrantfile
   detection_source: pkg/pillar/vendor/github.com/containerd/cgroups/Vagrantfile
   last_updated_by: Nikolay Martyanov
   last_updated_on: 2022-11-02 13:14:10.000000000 Z
@@ -240,6 +259,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/alpine/Dockerfile
   detection_source: pkg/alpine/Dockerfile
   last_updated_by: Christoph Ostarek
   last_updated_on: 2023-03-13 11:34:53.000000000 Z
@@ -251,6 +271,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/acrn-kernel/Dockerfile
   detection_source: pkg/acrn-kernel/Dockerfile
   last_updated_by: Jack Ren
   last_updated_on: 2019-10-02 00:53:23.000000000 Z
@@ -260,6 +281,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4728/Box.gif
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -270,6 +292,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/eve
   detection_source: Repo Metadata
 - name: agext/levenshtein
   description: Levenshtein distance and similarity metrics with customizable edit
@@ -309,6 +332,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/libs/go.mod
   detection_source: libs/go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-12-12 11:08:01.000000000 Z
@@ -335,6 +359,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/pkg/edgeview/go.mod
   detection_source: pkg/edgeview/go.mod
   last_updated_by: Christoph Ostarek
   last_updated_on: 2023-02-23 16:10:57.000000000 Z
@@ -1186,6 +1211,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/2lambda123/eve/blob/master/api/go/go.mod
   detection_source: api/go/go.mod
   last_updated_by: Christoph Ostarek
   last_updated_on: 2023-02-23 16:10:57.000000000 Z
