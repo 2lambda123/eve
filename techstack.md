@@ -3,27 +3,27 @@
 ## Tech Stack
 2lambda123/eve is built on the following main stack:
 
-- [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
-- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- [Python](https://www.python.org) – Languages
-- [Golang](http://golang.org/) – Languages
-- [Swift](https://developer.apple.com/swift/) – Languages
-- [C++](http://www.cplusplus.com/) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- [C++](http://www.cplusplus.com/) – Languages
+- [Golang](http://golang.org/) – Languages
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Prometheus](http://prometheus.io/) – Monitoring Tools
-- [Codecov](https://codecov.io/) – Code Coverage
 - [OCaml](http://ocaml.org) – Languages
+- [Python](https://www.python.org) – Languages
+- [Swift](https://developer.apple.com/swift/) – Languages
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [Testify](https://github.com/stretchr/testify) – Go Testing
-- [OpenCensus](https://opencensus.io/) – Monitoring Tools
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
+- [Codecov](https://codecov.io/) – Code Coverage
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [OpenCensus](https://opencensus.io/) – Monitoring Tools
+- [Prometheus](http://prometheus.io/) – Monitoring Tools
+- [Testify](https://github.com/stretchr/testify) – Go Testing
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -33,27 +33,27 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/eve is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
-- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2099/azureStorage.png' alt='Azure Storage'/> [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/2854/ocaml.jpg' alt='OCaml'/> [OCaml](http://ocaml.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png' alt='gRPC'/> [gRPC](https://grpc.io/) – Remote Procedure Call (RPC)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg' alt='OpenCensus'/> [OpenCensus](https://opencensus.io/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2099/azureStorage.png' alt='Azure Storage'/> [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg' alt='OpenCensus'/> [OpenCensus](https://opencensus.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -64,7 +64,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/eve](https://github.com/2lambda123/eve)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|99<br/>Tools used|01/05/24 <br/>Report generated|
+|99<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
